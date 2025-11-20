@@ -24,7 +24,7 @@ export const Logo: React.FC<{ className?: string }> = ({ className = '' }) => {
       src={isDark ? '/logo-white.svg' : '/logo-black.svg'}
       alt="Stateway Capital Group" 
       className={`logo-img ${className}`}
-      style={{ height: '32px', width: 'auto' }}
+      style={{ height: '28px', width: 'auto' }}
     />
   );
 };
