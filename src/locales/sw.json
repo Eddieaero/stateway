@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "whyStateway": "Kwa Nini Stateway",
+    "portfolio": "Kwingineko",
+    "returns": "Mapato",
+    "investors": "Waendesha",
+    "investNow": "Jiwekeza Sasa"
+  },
+  "hero": {
+    "title": "Matajiri ya Jamii Yanayoendeshwa na AI",
+    "description": "Stateway Group husaidia waendesha kuboresha mali kupitia njia nyingi, zenye uwazi, na njia za kimkakati za uongezaji mali sehemu ya Afrika na nje. Inayoendeshwa na RAI™, injini yetu ya AI ya uongezaji mali.",
+    "cta1": "Anza Kuwekeza",
+    "cta2": "Pakua Karatasi ya Waendesha (PDF)",
+    "badge": "✔ Kulingana na data. Imeboreswa kwa hatari. Imejengwa kwa Afrika na nje.",
+    "badges": {
+      "risk": "Udhibiti wa hatari wa daraja la taasisi",
+      "ai": "Inayoendeshwa na RAI™ AI Engine",
+      "transparent": "Uongezaji mali wenye uwazi na kulingana na data",
+      "ready": "Jukwaa lenyenye utayari wa waendesha"
+    }
+  },
+  "why": {
+    "title": "Kwa Nini Waendesha Wanachagua Stateway",
+    "reasons": [
+      {
+        "title": "Kwingineko Iliyoboreswa na AI",
+        "description": "Kwingineko chetu inaboreshwa na RAI™ na ESAI™ — injini mahiri inayochanganua mielekeo ya jumla, kutokuwa na utulivu, hisia, na mizani ya soko. Inatathmini mali, kugundua mielekeo ya tabia ya waendesha, na kuzalisha mapendekezo ya uongezaji mali yenye kipande."
+      },
+      {
+        "title": "Udhibiti wa Hatari wa Daraja la Taasisi",
+        "description": "Tunatumia ukubwa wa nafasi, mipaka ya kupungua, mantiki ya mwituko iliyochatanisha, na mikakati ya idadi kulingana na mahesabu iliyoinspirisha na methodi za ofisi za mjumbe."
+      },
+      {
+        "title": "Uwazi Kamili",
+        "description": "Tunakubali sera ya vitabu wazi na dashboard ya waendesha yasiyo na muda. Waendesha huona utendaji, maarifa, na sasisho — bila ada iliyofichwa, bila maamuzi yasiyo na macho."
+      },
+      {
+        "title": "Upatikanaji wa Kwingineko Shirikishi",
+        "description": "Pata ufikiaji wa mali isiyohamishi, hisa, deni, bidhaa, mali haswa, FX, na mali mbadala — zote zikiendesha na mifumo yetu ya idadi mahiri na kusaidiwa na Timu yetu ya Utafiti na Uchanganuzi."
+      }
+    ]
+  },
+  "strategies": {
+    "title": "Mikakati Yetu ya Uongezaji Mali",
+    "intro": "Tunajengapia kwingineko nyingi za mali iliyoboreswa kwa ukuaji wa muda mrefu, uweza wa kubadilika, kulinda mali, na uthabiti sehemu ya mizani ya soko.",
+    "prev": "Slaidi ya Awali",
+    "next": "Slaidi Ijayo",
+    "items": [
+      {
+        "title": "Mkakati wa FX Macro",
+        "focus": "Jozi kuu za sarafu",
+        "strategy": "Uchambuzi wa macro unaoendeshwa na AI wa idadi mahiri, ramani ya kutosha, mfumo wa kutokuwa na utulivu, na biashara iliyodhibitiwa kwa hatari",
+        "riskLevel": "Wastani",
+        "goal": "Ukuaji wenye utegemezi wa muda mrefu",
+        "image": "/fx-macro-chart.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Metali na Bidhaa",
+        "focus": "Dhahabu, Fedha, Platinum, Gesi Asilia, Mafuta Ghafi",
+        "strategy": "Uwezo wa usalama wenye mvutano wa kujifanya na onyo la AI na kuingia soko kwa usahihi",
+        "riskLevel": "Chini-Wastani",
+        "goal": "Ulinzi wa mali + kuzuia mfumuko wa bei",
+        "image": "/commodities.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Furaha za Kidijitali",
+        "focus": "Mali ya kidijitali ya juu iliyoonyeshwa na miundo ya hatari",
+        "strategy": "Ishara za Quant + AI, udhibiti mkali wa kupungua, na uwezo unaosawazishwa na kutokuwa na utulivu",
+        "riskLevel": "Juu",
+        "goal": "Ukuaji usiotarajiwa wa muda mrefu",
+        "image": "/opportunity.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Upanuzi wa Mali ya Kweli",
+        "focus": "Mali isiyohamishi, Miundombinu, Mali Haswa",
+        "strategy": "Mali yenye nyumba na sehemu ambayo inayoendeshwa na ESAI™",
+        "riskLevel": "Chini-Wastani",
+        "goal": "Mapato endelevu na ukuaji wa muda mrefu",
+        "image": "/real-asset.jpeg",
+        "isImageUrl": true
+      }
+    ],
+    "labels": {
+      "focus": "Lengo",
+      "strategy": "Mkakati",
+      "riskLevel": "Kiwango cha Hatari",
+      "goal": "Lengo"
+    }
+  },
+  "pricing": {
+    "title": "Mipango ya Uongezaji Mali (Orodha za Makadirio)",
+    "disclaimer": "Mapato yote ni orodha za makadirio — si yaliyo na chaguo. Mali iko hatarini.",
+    "labels": {
+      "capital": "Mtaji",
+      "risk": "Hatari",
+      "lockUp": "Umefungwa",
+      "idealFor": "Mahali Bora Kwa",
+      "learnMore": "Jifunze Zaidi"
+    },
+    "plans": [
+      {
+        "name": "Kwingineko la Kuanza",
+        "minimum": "Chini ya $1,000",
+        "range": "2–4%",
+        "period": "Kila Mwezi",
+        "risk": "Wastani",
+        "lockup": "Miezi 3",
+        "ideal": "Waendesha wenye mali ndogo wanaotaka kujenga kasi ya mwanzo."
+      },
+      {
+        "name": "Kwingineko la Ukuaji",
+        "minimum": "$1,000 – $5,999",
+        "range": "4–7%",
+        "period": "Kila Mwezi",
+        "risk": "Wastani",
+        "lockup": "Miezi 6-12",
+        "ideal": "Waendesha wapya wanaotaka utendaji thabiti na wenye ahadi."
+      },
+      {
+        "name": "Kwingineko la Kiini",
+        "minimum": "$6,000 – $25,999",
+        "range": "5–8%",
+        "period": "Kila Mwezi (inakoshauriana)",
+        "risk": "Chini-Wastani",
+        "lockup": "Miezi 12+",
+        "ideal": "Waendesha wanaotaka mapato thabiti, wenye utegemezi, na wenye msukumo kidogo."
+      },
+      {
+        "name": "Kwingineko la Serikali",
+        "minimum": "$26,000 – $249,999",
+        "range": "6–10%",
+        "period": "Kila Mwezi (inakoshauriana)",
+        "risk": "Wastani-Juu",
+        "lockup": "Miezi 12-36+",
+        "ideal": "Waendesha wenye uzoefu wanaotaka utulivu unojengwa kwa ukuaji wenye msukumo wa muda mrefu."
+      },
+      {
+        "name": "Kwingineko la Taasisi na Ofisi za Familia",
+        "minimum": "$250,000+",
+        "range": "7–12%",
+        "period": "Kila Mwezi (inakoshauriana)",
+        "risk": "Wastani-Juu",
+        "lockup": "Maalum",
+        "ideal": "Taasisi na ofisi za familia wanaotaka mkakati shirikishi na inayobadilika."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Inaaminika na Waendesha na Utambuzi",
+    "items": [
+      {
+        "name": "Amara J., Dar es Salaam",
+        "text": "Stateway imerekebisha jinsi nilivyodhibiti mali. Ripoti ya wazi na utegemezi wenye nguvu."
+      },
+      {
+        "name": "Salem M., Nairobi",
+        "text": "Mkakati wa AI unatoa ujinga katika kila maamuzi. Timu ya aina maalum sana."
+      },
+      {
+        "name": "Ruth K., Arusha",
+        "text": "Napenda uwazi na mawasiliano. Hii ni siku za baadaye ya uongezaji mali sehemu ya Afrika."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Uko Tayari Kujenga Mitaji yako ya Jamii?",
+    "description": "Jiunge na jamii inayokua ya waendesha wenye fikira ya baadaye kujenga mali ya muda mrefu kwa mikakati inayoendeshwa na AI.",
+    "button1": "📞 Kamatia Simu ya Mwasiliano",
+    "button2": "📄 Pakua Karatasi ya Waendesha",
+    "footer": "Imefunzwa na kutathminiwa. Mali yako, siku za baadaye yako."
+  },
+  "footer": {
+    "company": "STATEWAY Capital Group",
+    "tagline": "Uongezaji Mali Unaoendeshwa na AI | Tanzania",
+    "contact": "Mawasiliano",
+    "email": "ceao@statewaygroup.ai",
+    "location": "Dar es Salaam, Tanzania",
+    "links": {
+      "about": "Kuhusu Sisi",
+      "investment": "Mipango ya Uongezaji Mali",
+      "risk": "Ufunguo wa Hatari",
+      "privacy": "Sera ya Faragha"
+    },
+    "copyright": "© {year} Stateway Capital Group. Haki zote zimehifadhiwa."
+  },
+  "features": {
+    "title": "Kwingineko la Uongezaji Mali",
+    "items": [
+      {
+        "title": "Mali Isiyohamishi",
+        "desc": "Mali ya biashara na nyumba na mapato ya kodi na miundo ya REIT."
+      },
+      {
+        "title": "Soko la Umma",
+        "desc": "Hisa za kioo cha samani, hisa zinazolipa gawio, deni la serikali na kampuni."
+      },
+      {
+        "title": "Mali Haswa",
+        "desc": "Kampuni inayokua kwa kasi na zaidi ya kampuni za umma wenye furaha za ukamataji wa kijinga."
+      },
+      {
+        "title": "Mapato Thabiti",
+        "desc": "Mkopo mdogo wenye cheo, bili ya hazina, na mkopo ulio na mali iliyotakunya."
+      },
+      {
+        "title": "Biashara za Mwili",
+        "desc": "Biashara ya rejareja katika nishati, teknolohia, kilimo, na ubadilishanaji wa uzalishaji-uingizaji."
+      },
+      {
+        "title": "Utawala wa Hatari",
+        "desc": "Tathmini za pande tatu, taasisi yenye leseni, na kinga kamili ya bima."
+      }
+    ]
+  },
+  "valueProps": {
+    "title": "Kwa Nini Chagua Stateway",
+    "items": [
+      {
+        "title": "Kwingineko Shirikishi",
+        "desc": "Ufikiaji mali isiyohamishi, hisa, deni, mali haswa, na uongezaji mali mbadala sehemu ya aina nyingi za mali."
+      },
+      {
+        "title": "Uwazi Kamili",
+        "desc": "Sera ya vitabu wazi wenye dashboard ya waendesha yasiyo na muda, hakuna ada iliyofichwa, na tathmini ya pande tatu kila mwaka."
+      },
+      {
+        "title": "Mapato Yenye Utegemezi",
+        "desc": "Ukamataji wa kijinga unatoa mapato ya wastani wa 3.5% hadi 20% kulingana na kipindi cha uongezaji mali na mtindo wa kwingineko."
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "whyStateway": "Why Stateway",
+    "portfolio": "Portfolio",
+    "returns": "Returns",
+    "investors": "Investors",
+    "investNow": "Invest Now"
+  },
+  "hero": {
+    "title": "AI-Driven Generational Wealth Management",
+    "description": "Stateway Group helps investors grow long-term wealth through diversified, transparent, and strategic investment opportunities in Africa and beyond. Powered by RAI™, our proprietary AI investment engine.",
+    "cta1": "Start Investing",
+    "cta2": "Download Investor Deck (PDF)",
+    "badge": "✔ Data-driven. Risk-optimized. Built for Africa and beyond.",
+    "badges": {
+      "risk": "Institutional-grade risk management",
+      "ai": "Powered by RAI™ AI Engine",
+      "transparent": "Transparent, data-driven investing",
+      "ready": "Investor-ready platform"
+    }
+  },
+  "why": {
+    "title": "Why Investors Choose Stateway",
+    "reasons": [
+      {
+        "title": "AI-Optimized Portfolios",
+        "description": "Our portfolios are enhanced by RAI™ & ESAI™ — intelligent engines that analyze macro trends, volatility, sentiment, and market cycles. They evaluate assets, detect investor behavioral patterns, and generate personalized investment recommendations."
+      },
+      {
+        "title": "Institutional-Grade Risk Management",
+        "description": "We apply position sizing, drawdown limits, layered stop logic, and disciplined quantitative strategies inspired by hedge-fund methodologies."
+      },
+      {
+        "title": "Complete Transparency",
+        "description": "We embrace an open-books policy with a real-time investor dashboard. Investors see performance, insights, and updates — with no hidden fees, no blind decisions."
+      },
+      {
+        "title": "Diversified Portfolio Access",
+        "description": "Gain access to real estate, stocks, bonds, commodities, private equity, FX, and alternative assets — all powered by our quantitative AI models and supported by our Research & Analysis Team."
+      }
+    ]
+  },
+  "strategies": {
+    "title": "Our Investment Strategies",
+    "intro": "We build multi-asset portfolios designed for long-term growth, adaptivity, capital protection, and stability across market cycles.",
+    "prev": "Previous slide",
+    "next": "Next slide",
+    "items": [
+      {
+        "title": "FX Macro Strategy",
+        "focus": "Major currency pairs",
+        "strategy": "Quantitative AI-driven macro analysis, liquidity mapping, volatility modeling, and risk-controlled trades",
+        "riskLevel": "Moderate",
+        "goal": "Reliable compounding over time",
+        "image": "/fx-macro-chart.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Metals & Commodities",
+        "focus": "Gold, Silver, Platinum, Natural Gas, Crude Oil",
+        "strategy": "Safe-haven exposure with tactical AI-timed alerts and precise market entries",
+        "riskLevel": "Low-Moderate",
+        "goal": "Capital protection + inflation hedge",
+        "image": "/commodities.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Digital Opportunities",
+        "focus": "Top digital assets screened by risk models",
+        "strategy": "Quant + AI signals, strict drawdown controls, and volatility-aligned exposure",
+        "riskLevel": "High",
+        "goal": "Asymmetric long-term upside",
+        "image": "/opportunity.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Real-Asset Expansion",
+        "focus": "Property, Infrastructure, Private Equity",
+        "strategy": "ESAI™-powered tokenized & fractional real-world assets",
+        "riskLevel": "Low-Moderate",
+        "goal": "Sustainable income & long-term appreciation",
+        "image": "/real-asset.jpeg",
+        "isImageUrl": true
+      }
+    ],
+    "labels": {
+      "focus": "Focus",
+      "strategy": "Strategy",
+      "riskLevel": "Risk Level",
+      "goal": "Goal"
+    }
+  },
+  "pricing": {
+    "title": "Investment Plans (Projected Ranges)",
+    "disclaimer": "All returns are projected ranges — not guaranteed. Capital is at risk.",
+    "labels": {
+      "capital": "Capital",
+      "risk": "Risk",
+      "lockUp": "Lock-Up",
+      "idealFor": "Ideal For",
+      "learnMore": "Learn More"
+    },
+    "plans": [
+      {
+        "name": "Starter Portfolio",
+        "minimum": "Less than $1,000",
+        "range": "2–4%",
+        "period": "Monthly",
+        "risk": "Moderate",
+        "lockup": "3 months",
+        "ideal": "Investors with smaller capital looking to build early momentum."
+      },
+      {
+        "name": "Growth Portfolio",
+        "minimum": "$1,000 – $5,999",
+        "range": "4–7%",
+        "period": "Monthly",
+        "risk": "Moderate",
+        "lockup": "6-12 months",
+        "ideal": "New investors seeking consistent and promising performance."
+      },
+      {
+        "name": "Core Portfolio",
+        "minimum": "$6,000 – $25,999",
+        "range": "5–8%",
+        "period": "Monthly (recommended)",
+        "risk": "Low-Moderate",
+        "lockup": "12 months+",
+        "ideal": "Investors seeking stable, consistent, and slightly aggressive returns."
+      },
+      {
+        "name": "Executive Portfolio",
+        "minimum": "$26,000 – $249,999",
+        "range": "6–10%",
+        "period": "Monthly (recommended)",
+        "risk": "Moderate-High",
+        "lockup": "12-36 months+",
+        "ideal": "Experienced investors aiming for stability combined with aggressive long-term growth."
+      },
+      {
+        "name": "Institutional & Family Office Portfolio",
+        "minimum": "$250,000+",
+        "range": "7–12%",
+        "period": "Monthly (recommended)",
+        "risk": "Moderate-High",
+        "lockup": "Custom",
+        "ideal": "Institutions and family offices seeking diversified, customized strategies."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Trusted by Investors & Recognitions",
+    "items": [
+      {
+        "name": "Amara J., Dar es Salaam",
+        "text": "Stateway has transformed how I manage my money. Clear reporting and strong consistency."
+      },
+      {
+        "name": "Salem M., Nairobi",
+        "text": "The AI strategy gives confidence in every decision. Very professional team."
+      },
+      {
+        "name": "Ruth K., Arusha",
+        "text": "I like the transparency and communication. This is the future of investing in Africa."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Build Your Financial Legacy?",
+    "description": "Join Stateway's growing community of forward-thinking investors building long-term wealth with AI-powered strategies.",
+    "button1": "📞 Book Investor Call",
+    "button2": "📄 Download Investor Deck",
+    "footer": "Licensed and audited. Your investment, your future."
+  },
+  "footer": {
+    "company": "STATEWAY Capital Group",
+    "tagline": "AI-Driven Asset Management | Tanzania",
+    "contact": "Contact",
+    "email": "ceao@statewaygroup.ai",
+    "location": "Dar es Salaam, Tanzania",
+    "links": {
+      "about": "About Us",
+      "investment": "Investment Plans",
+      "risk": "Risk Disclosure",
+      "privacy": "Privacy Policy"
+    },
+    "copyright": "© {year} Stateway Capital Group. All rights reserved."
+  },
+  "features": {
+    "title": "Investment Portfolio",
+    "items": [
+      {
+        "title": "Real Estate",
+        "desc": "Commercial and residential properties with rental income and REIT-style models."
+      },
+      {
+        "title": "Public Markets",
+        "desc": "Blue-chip stocks, dividend-paying equities, government and corporate bonds."
+      },
+      {
+        "title": "Private Equity",
+        "desc": "High-growth startups and non-public firms with strategic acquisition opportunities."
+      },
+      {
+        "title": "Fixed Income",
+        "desc": "Micro-lending with collateral, treasury bills, and secured asset-backed loans."
+      },
+      {
+        "title": "Physical Businesses",
+        "desc": "Retail ventures in energy, technology, agribusiness, and export-import."
+      },
+      {
+        "title": "Risk Management",
+        "desc": "Third-party audits, licensed operations, and comprehensive insurance coverage."
+      }
+    ]
+  },
+  "valueProps": {
+    "title": "Why Choose Stateway",
+    "items": [
+      {
+        "title": "Diversified Portfolio",
+        "desc": "Access real estate, stocks, bonds, private equity, and alternative investments across multiple asset classes."
+      },
+      {
+        "title": "Complete Transparency",
+        "desc": "Open books policy with real-time investor dashboard, no hidden fees, and third-party annual audits."
+      },
+      {
+        "title": "Consistent Returns",
+        "desc": "Strategic allocation delivering 3.5% to 20% benchmark returns based on investment term and portfolio style."
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "whyStateway": "Pourquoi Stateway",
+    "portfolio": "Portefeuille",
+    "returns": "Rendements",
+    "investors": "Investisseurs",
+    "investNow": "Investir Maintenant"
+  },
+  "hero": {
+    "title": "Gestion de la Richesse Générationnelle Alimentée par l'IA",
+    "description": "Stateway Group aide les investisseurs à développer une richesse à long terme grâce à des opportunités d'investissement diversifiées, transparentes et stratégiques en Afrique et au-delà. Alimenté par RAI™, notre moteur d'IA d'investissement propriétaire.",
+    "cta1": "Commencer à Investir",
+    "cta2": "Télécharger le Document Investisseur (PDF)",
+    "badge": "✔ Basé sur les données. Optimisé pour le risque. Conçu pour l'Afrique et au-delà.",
+    "badges": {
+      "risk": "Gestion des risques de classe institutionnelle",
+      "ai": "Alimenté par le Moteur IA RAI™",
+      "transparent": "Investissement transparent et basé sur les données",
+      "ready": "Plateforme prête pour les investisseurs"
+    }
+  },
+  "why": {
+    "title": "Pourquoi les Investisseurs Choisissent Stateway",
+    "reasons": [
+      {
+        "title": "Portefeuilles Optimisés par l'IA",
+        "description": "Nos portefeuilles sont améliorés par RAI™ et ESAI™ — des moteurs intelligents qui analysent les tendances macro, la volatilité, le sentiment et les cycles de marché. Ils évaluent les actifs, détectent les modèles de comportement des investisseurs et génèrent des recommandations d'investissement personnalisées."
+      },
+      {
+        "title": "Gestion des Risques de Classe Institutionnelle",
+        "description": "Nous appliquons le dimensionnement des positions, les limites de baisse, la logique d'arrêt stratifiée et des stratégies quantitatives disciplinées inspirées par les méthodologies des fonds spéculatifs."
+      },
+      {
+        "title": "Transparence Complète",
+        "description": "Nous adoptons une politique de livres ouverts avec un tableau de bord d'investisseur en temps réel. Les investisseurs voient les performances, les informations et les mises à jour — sans frais cachés, sans décisions aveugles."
+      },
+      {
+        "title": "Accès Diversifié au Portefeuille",
+        "description": "Accédez à l'immobilier, aux actions, aux obligations, aux matières premières, au capital-investissement, au FX et aux actifs alternatifs — tous alimentés par nos modèles d'IA quantitatifs et soutenus par notre équipe de recherche et d'analyse."
+      }
+    ]
+  },
+  "strategies": {
+    "title": "Nos Stratégies d'Investissement",
+    "intro": "Nous construisons des portefeuilles multi-actifs conçus pour la croissance à long terme, l'adaptabilité, la protection du capital et la stabilité dans les cycles de marché.",
+    "prev": "Diapositive Précédente",
+    "next": "Diapositive Suivante",
+    "items": [
+      {
+        "title": "Stratégie Macro FX",
+        "focus": "Paires de devises majeures",
+        "strategy": "Analyse macro quantitative alimentée par l'IA, cartographie de la liquidité, modélisation de la volatilité et transactions contrôlées par le risque",
+        "riskLevel": "Modéré",
+        "goal": "Capitalisation fiable au fil du temps",
+        "image": "/fx-macro-chart.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Métaux et Matières Premières",
+        "focus": "Or, Argent, Platine, Gaz Naturel, Pétrole Brut",
+        "strategy": "Exposition refuge avec alertes tactiques synchronisées par l'IA et entrées de marché précises",
+        "riskLevel": "Faible-Modéré",
+        "goal": "Protection du capital + couverture contre l'inflation",
+        "image": "/commodities.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Opportunités Numériques",
+        "focus": "Actifs numériques de premier plan sélectionnés par des modèles de risque",
+        "strategy": "Signaux Quant + IA, contrôles de baisse stricts et exposition alignée sur la volatilité",
+        "riskLevel": "Élevé",
+        "goal": "Avantage asymétrique à long terme",
+        "image": "/opportunity.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Expansion des Actifs Réels",
+        "focus": "Immobilier, Infrastructure, Capital-Investissement",
+        "strategy": "Actifs du monde réel tokenisés et fractionnés alimentés par ESAI™",
+        "riskLevel": "Faible-Modéré",
+        "goal": "Revenu durable et appréciation à long terme",
+        "image": "/real-asset.jpeg",
+        "isImageUrl": true
+      }
+    ],
+    "labels": {
+      "focus": "Accent",
+      "strategy": "Stratégie",
+      "riskLevel": "Niveau de Risque",
+      "goal": "Objectif"
+    }
+  },
+  "pricing": {
+    "title": "Plans d'Investissement (Gammes Projetées)",
+    "disclaimer": "Tous les rendements sont des gammes projetées — non garantis. Le capital est à risque.",
+    "labels": {
+      "capital": "Capital",
+      "risk": "Risque",
+      "lockUp": "Blocage",
+      "idealFor": "Idéal Pour",
+      "learnMore": "En Savoir Plus"
+    },
+    "plans": [
+      {
+        "name": "Portefeuille Débutant",
+        "minimum": "Moins de $1 000",
+        "range": "2–4%",
+        "period": "Mensuel",
+        "risk": "Modéré",
+        "lockup": "3 mois",
+        "ideal": "Les investisseurs ayant un capital réduit cherchant à construire un élan initial."
+      },
+      {
+        "name": "Portefeuille Croissance",
+        "minimum": "$1 000 – $5 999",
+        "range": "4–7%",
+        "period": "Mensuel",
+        "risk": "Modéré",
+        "lockup": "6-12 mois",
+        "ideal": "Les nouveaux investisseurs recherchant une performance constante et prometteuse."
+      },
+      {
+        "name": "Portefeuille Principal",
+        "minimum": "$6 000 – $25 999",
+        "range": "5–8%",
+        "period": "Mensuel (recommandé)",
+        "risk": "Faible-Modéré",
+        "lockup": "12 mois+",
+        "ideal": "Les investisseurs recherchant des rendements stables, constants et légèrement agressifs."
+      },
+      {
+        "name": "Portefeuille Exécutif",
+        "minimum": "$26 000 – $249 999",
+        "range": "6–10%",
+        "period": "Mensuel (recommandé)",
+        "risk": "Modéré-Élevé",
+        "lockup": "12-36 mois+",
+        "ideal": "Les investisseurs expérimentés visant la stabilité combinée à une croissance agressives à long terme."
+      },
+      {
+        "name": "Portefeuille Institutionnel et Family Office",
+        "minimum": "$250 000+",
+        "range": "7–12%",
+        "period": "Mensuel (recommandé)",
+        "risk": "Modéré-Élevé",
+        "lockup": "Personnalisé",
+        "ideal": "Les institutions et family offices recherchant des stratégies diversifiées et personnalisées."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Trusted by Investors & Recognitions",
+    "items": [
+      {
+        "name": "Amara J., Dar es Salaam",
+        "text": "Stateway a transformé la façon dont je gère mon argent. Rapports clairs et cohérence forte."
+      },
+      {
+        "name": "Salem M., Nairobi",
+        "text": "La stratégie IA donne confiance dans chaque décision. Équipe très professionnelle."
+      },
+      {
+        "name": "Ruth K., Arusha",
+        "text": "J'aime la transparence et la communication. C'est l'avenir de l'investissement en Afrique."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Construire Votre Héritage Financier?",
+    "description": "Rejoignez la communauté croissante de Stateway d'investisseurs avant-gardistes construisant une richesse à long terme avec des stratégies alimentées par l'IA.",
+    "button1": "📞 Réserver un Appel Investisseur",
+    "button2": "📄 Télécharger le Document Investisseur",
+    "footer": "Autorisé et audité. Votre investissement, votre avenir."
+  },
+  "footer": {
+    "company": "STATEWAY Capital Group",
+    "tagline": "Gestion d'Actifs Alimentée par l'IA | Tanzanie",
+    "contact": "Contact",
+    "email": "ceao@statewaygroup.ai",
+    "location": "Dar es Salaam, Tanzanie",
+    "links": {
+      "about": "À Propos de Nous",
+      "investment": "Plans d'Investissement",
+      "risk": "Divulgation des Risques",
+      "privacy": "Politique de Confidentialité"
+    },
+    "copyright": "© {year} Stateway Capital Group. Tous droits réservés."
+  },
+  "features": {
+    "title": "Portefeuille d'Investissement",
+    "items": [
+      {
+        "title": "Immobilier",
+        "desc": "Propriétés commerciales et résidentielles avec revenu locatif et modèles de style REIT."
+      },
+      {
+        "title": "Marchés Publics",
+        "desc": "Actions blue-chip, actions versant des dividendes, obligations gouvernementales et d'entreprises."
+      },
+      {
+        "title": "Capital-Investissement",
+        "desc": "Startups à forte croissance et entreprises non publiques avec opportunités d'acquisition stratégique."
+      },
+      {
+        "title": "Revenu Fixe",
+        "desc": "Microcrédit avec collatéral, bons du Trésor et prêts garantis par des actifs."
+      },
+      {
+        "title": "Entreprises Physiques",
+        "desc": "Ventures de détail dans l'énergie, la technologie, l'agro-industrie et l'import-export."
+      },
+      {
+        "title": "Gestion des Risques",
+        "desc": "Audits tiers, opérations autorisées et couverture d'assurance complète."
+      }
+    ]
+  },
+  "valueProps": {
+    "title": "Pourquoi Choisir Stateway",
+    "items": [
+      {
+        "title": "Portefeuille Diversifié",
+        "desc": "Accédez à l'immobilier, aux actions, aux obligations, au capital-investissement et aux investissements alternatifs dans plusieurs classes d'actifs."
+      },
+      {
+        "title": "Transparence Complète",
+        "desc": "Politique de livres ouverts avec tableau de bord d'investisseur en temps réel, pas de frais cachés et audits annuels tiers."
+      },
+      {
+        "title": "Rendements Cohérents",
+        "desc": "Allocation stratégique offrant des rendements de référence de 3,5% à 20% selon la durée d'investissement et le style de portefeuille."
+      }
+    ]
+  }
+}

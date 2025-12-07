@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "whyStateway": "为什么选择 Stateway",
+    "portfolio": "投资组合",
+    "returns": "回报",
+    "investors": "投资者",
+    "investNow": "立即投资"
+  },
+  "hero": {
+    "title": "AI驱动的代际财富管理",
+    "description": "Stateway Group通过在非洲及其他地区的多样化、透明和战略性投资机会，帮助投资者增长长期财富。由我们自有的AI投资引擎RAI™提供支持。",
+    "cta1": "开始投资",
+    "cta2": "下载投资者资料（PDF）",
+    "badge": "✔ 数据驱动。风险优化。为非洲及其他地区而构建。",
+    "badges": {
+      "risk": "机构级风险管理",
+      "ai": "由RAI™ AI引擎提供支持",
+      "transparent": "透明、数据驱动的投资",
+      "ready": "投资者就绪平台"
+    }
+  },
+  "why": {
+    "title": "投资者为什么选择 Stateway",
+    "reasons": [
+      {
+        "title": "AI优化的投资组合",
+        "description": "我们的投资组合由RAI™和ESAI™增强——智能引擎分析宏观趋势、波动性、情绪和市场周期。他们评估资产、检测投资者行为模式并生成个性化投资建议。"
+      },
+      {
+        "title": "机构级风险管理",
+        "description": "我们应用头寸规模、回撤限制、分层止损逻辑和由对冲基金方法论启发的纪律性量化策略。"
+      },
+      {
+        "title": "完全透明",
+        "description": "我们采用开放账簿政策，提供实时投资者仪表板。投资者可以看到业绩、见解和更新——没有隐藏费用，没有盲目决策。"
+      },
+      {
+        "title": "多样化投资组合获取",
+        "description": "获取房地产、股票、债券、商品、私募股权、外汇和替代资产——全部由我们的量化AI模型驱动，并得到我们研究和分析团队的支持。"
+      }
+    ]
+  },
+  "strategies": {
+    "title": "我们的投资策略",
+    "intro": "我们构建多资产投资组合，专为长期增长、适应性、资本保护和市场周期中的稳定性而设计。",
+    "prev": "上一张幻灯片",
+    "next": "下一张幻灯片",
+    "items": [
+      {
+        "title": "外汇宏观策略",
+        "focus": "主要货币对",
+        "strategy": "量化AI驱动的宏观分析、流动性映射、波动性建模和风险控制交易",
+        "riskLevel": "中等",
+        "goal": "随时间稳定复合",
+        "image": "/fx-macro-chart.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "贵金属和商品",
+        "focus": "黄金、白银、铂金、天然气、原油",
+        "strategy": "安全港暴露，具有战术性AI时机提醒和精确市场进入",
+        "riskLevel": "低-中等",
+        "goal": "资本保护+通胀对冲",
+        "image": "/commodities.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "数字机会",
+        "focus": "通过风险模型筛选的顶级数字资产",
+        "strategy": "量化+AI信号、严格的回撤控制和波动性对齐敞口",
+        "riskLevel": "高",
+        "goal": "长期非对称上行",
+        "image": "/opportunity.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "实资产扩展",
+        "focus": "房产、基础设施、私募股权",
+        "strategy": "由ESAI™驱动的代币化和分数化现实世界资产",
+        "riskLevel": "低-中等",
+        "goal": "可持续收入和长期升值",
+        "image": "/real-asset.jpeg",
+        "isImageUrl": true
+      }
+    ],
+    "labels": {
+      "focus": "重点",
+      "strategy": "策略",
+      "riskLevel": "风险等级",
+      "goal": "目标"
+    }
+  },
+  "pricing": {
+    "title": "投资计划（预期范围）",
+    "disclaimer": "所有回报都是预期范围——不保证。资本有风险。",
+    "labels": {
+      "capital": "资本",
+      "risk": "风险",
+      "lockUp": "锁定期",
+      "idealFor": "适合",
+      "learnMore": "了解更多"
+    },
+    "plans": [
+      {
+        "name": "启动投资组合",
+        "minimum": "少于$1,000",
+        "range": "2–4%",
+        "period": "每月",
+        "risk": "中等",
+        "lockup": "3个月",
+        "ideal": "寻求初期发展动力的小资本投资者。"
+      },
+      {
+        "name": "增长投资组合",
+        "minimum": "$1,000 – $5,999",
+        "range": "4–7%",
+        "period": "每月",
+        "risk": "中等",
+        "lockup": "6-12个月",
+        "ideal": "寻求持续且有前景的表现的新投资者。"
+      },
+      {
+        "name": "核心投资组合",
+        "minimum": "$6,000 – $25,999",
+        "range": "5–8%",
+        "period": "每月（推荐）",
+        "risk": "低-中等",
+        "lockup": "12个月+",
+        "ideal": "寻求稳定、持续和略具侵略性回报的投资者。"
+      },
+      {
+        "name": "行政投资组合",
+        "minimum": "$26,000 – $249,999",
+        "range": "6–10%",
+        "period": "每月（推荐）",
+        "risk": "中等-高",
+        "lockup": "12-36个月+",
+        "ideal": "经验丰富的投资者，目标是稳定性与长期积极增长相结合。"
+      },
+      {
+        "name": "机构和家族办公室投资组合",
+        "minimum": "$250,000+",
+        "range": "7–12%",
+        "period": "每月（推荐）",
+        "risk": "中等-高",
+        "lockup": "定制",
+        "ideal": "寻求多样化、定制化策略的机构和家族办公室。"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "受投资者信赖和认可",
+    "items": [
+      {
+        "name": "Amara J., 达累斯萨拉姆",
+        "text": "Stateway改变了我管理资金的方式。清晰的报告和强劲的一致性。"
+      },
+      {
+        "name": "Salem M., 内罗毕",
+        "text": "AI策略给予每项决定信心。非常专业的团队。"
+      },
+      {
+        "name": "Ruth K., 阿鲁沙",
+        "text": "我喜欢透明度和沟通。这是非洲投资的未来。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "准备好构建您的财务遗产了吗？",
+    "description": "加入Stateway不断增长的远见卓识投资者社区，通过AI驱动的策略构建长期财富。",
+    "button1": "📞 预订投资者电话",
+    "button2": "📄 下载投资者资料",
+    "footer": "获得许可并经过审计。您的投资，您的未来。"
+  },
+  "footer": {
+    "company": "STATEWAY Capital Group",
+    "tagline": "AI驱动的资产管理 | 坦桑尼亚",
+    "contact": "联系",
+    "email": "ceao@statewaygroup.ai",
+    "location": "坦桑尼亚达累斯萨拉姆",
+    "links": {
+      "about": "关于我们",
+      "investment": "投资计划",
+      "risk": "风险披露",
+      "privacy": "隐私政策"
+    },
+    "copyright": "© {year} Stateway Capital Group。版权所有。"
+  },
+  "features": {
+    "title": "投资组合",
+    "items": [
+      {
+        "title": "房地产",
+        "desc": "商业和住宅物业，具有租赁收入和REIT风格的模型。"
+      },
+      {
+        "title": "公开市场",
+        "desc": "蓝筹股、支付股息的股票、政府和公司债券。"
+      },
+      {
+        "title": "私募股权",
+        "desc": "高增长初创公司和非公开公司，具有战略收购机会。"
+      },
+      {
+        "title": "固定收益",
+        "desc": "具有抵押的小额信贷、国库券和资产支持贷款。"
+      },
+      {
+        "title": "实体企业",
+        "desc": "能源、技术、农业和进出口贸易中的零售企业。"
+      },
+      {
+        "title": "风险管理",
+        "desc": "第三方审计、许可运营和全面保险覆盖。"
+      }
+    ]
+  },
+  "valueProps": {
+    "title": "为什么选择 Stateway",
+    "items": [
+      {
+        "title": "多样化投资组合",
+        "desc": "获取房地产、股票、债券、私募股权和跨多个资产类别的替代投资。"
+      },
+      {
+        "title": "完全透明",
+        "desc": "开放账簿政策，提供实时投资者仪表板、无隐藏费用和第三方年度审计。"
+      },
+      {
+        "title": "持续回报",
+        "desc": "战略配置提供3.5%至20%的基准回报，取决于投资期限和投资组合风格。"
+      }
+    ]
+  }
+}
