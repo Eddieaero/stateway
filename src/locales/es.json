@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "whyStateway": "Por Qué Stateway",
+    "portfolio": "Cartera",
+    "returns": "Rendimientos",
+    "investors": "Inversores",
+    "investNow": "Invertir Ahora"
+  },
+  "hero": {
+    "title": "Gestión de Riqueza Generacional Impulsada por IA",
+    "description": "Stateway Group ayuda a los inversores a crecer riqueza a largo plazo a través de oportunidades de inversión diversificadas, transparentes y estratégicas en África y más allá. Impulsado por RAI™, nuestro motor de inversión de IA propietario.",
+    "cta1": "Comenzar a Invertir",
+    "cta2": "Descargar Documento para Inversores (PDF)",
+    "badge": "✔ Basado en datos. Optimizado para el riesgo. Construido para África y más allá.",
+    "badges": {
+      "risk": "Gestión de riesgo de grado institucional",
+      "ai": "Impulsado por el Motor IA RAI™",
+      "transparent": "Inversión transparente basada en datos",
+      "ready": "Plataforma lista para inversores"
+    }
+  },
+  "why": {
+    "title": "Por Qué los Inversores Eligen Stateway",
+    "reasons": [
+      {
+        "title": "Carteras Optimizadas por IA",
+        "description": "Nuestras carteras se mejoran con RAI™ y ESAI™ — motores inteligentes que analizan tendencias macro, volatilidad, sentimiento y ciclos de mercado. Evalúan activos, detectan patrones de comportamiento del inversor y generan recomendaciones de inversión personalizadas."
+      },
+      {
+        "title": "Gestión de Riesgo de Grado Institucional",
+        "description": "Aplicamos el dimensionamiento de posiciones, límites de reducción, lógica de parada estratificada y estrategias cuantitativas disciplinadas inspiradas en metodologías de fondos de cobertura."
+      },
+      {
+        "title": "Transparencia Completa",
+        "description": "Adoptamos una política de libros abiertos con panel de inversores en tiempo real. Los inversores ven rendimiento, información y actualizaciones — sin tarifas ocultas, sin decisiones a ciegas."
+      },
+      {
+        "title": "Acceso a Cartera Diversificada",
+        "description": "Obtenga acceso a bienes raíces, acciones, bonos, materias primas, capital privado, FX y activos alternativos — todo impulsado por nuestros modelos de IA cuantitativos y apoyado por nuestro equipo de Investigación y Análisis."
+      }
+    ]
+  },
+  "strategies": {
+    "title": "Nuestras Estrategias de Inversión",
+    "intro": "Construimos carteras de múltiples activos diseñadas para crecimiento a largo plazo, adaptabilidad, protección de capital y estabilidad en ciclos de mercado.",
+    "prev": "Diapositiva Anterior",
+    "next": "Siguiente Diapositiva",
+    "items": [
+      {
+        "title": "Estrategia Macro FX",
+        "focus": "Pares de divisas principales",
+        "strategy": "Análisis macro cuantitativo impulsado por IA, mapeo de liquidez, modelado de volatilidad y operaciones controladas por riesgo",
+        "riskLevel": "Moderado",
+        "goal": "Capitalización confiable a lo largo del tiempo",
+        "image": "/fx-macro-chart.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Metales y Materias Primas",
+        "focus": "Oro, Plata, Platino, Gas Natural, Petróleo Crudo",
+        "strategy": "Exposición de refugio seguro con alertas tácticas sincronizadas por IA y entradas de mercado precisas",
+        "riskLevel": "Bajo-Moderado",
+        "goal": "Protección de capital + cobertura de inflación",
+        "image": "/commodities.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Oportunidades Digitales",
+        "focus": "Activos digitales principales examinados por modelos de riesgo",
+        "strategy": "Señales de Quant + IA, controles de reducción estrictos y exposición alineada con volatilidad",
+        "riskLevel": "Alto",
+        "goal": "Ventaja asimétrica a largo plazo",
+        "image": "/opportunity.jpeg",
+        "isImageUrl": true
+      },
+      {
+        "title": "Expansión de Activos Reales",
+        "focus": "Bienes Raíces, Infraestructura, Capital Privado",
+        "strategy": "Activos del mundo real tokenizados y fraccionados impulsados por ESAI™",
+        "riskLevel": "Bajo-Moderado",
+        "goal": "Ingresos sostenibles y apreciación a largo plazo",
+        "image": "/real-asset.jpeg",
+        "isImageUrl": true
+      }
+    ],
+    "labels": {
+      "focus": "Enfoque",
+      "strategy": "Estrategia",
+      "riskLevel": "Nivel de Riesgo",
+      "goal": "Objetivo"
+    }
+  },
+  "pricing": {
+    "title": "Planes de Inversión (Rangos Proyectados)",
+    "disclaimer": "Todos los rendimientos son rangos proyectados — no garantizados. El capital está en riesgo.",
+    "labels": {
+      "capital": "Capital",
+      "risk": "Riesgo",
+      "lockUp": "Bloqueo",
+      "idealFor": "Ideal Para",
+      "learnMore": "Saber Más"
+    },
+    "plans": [
+      {
+        "name": "Cartera Iniciador",
+        "minimum": "Menos de $1,000",
+        "range": "2–4%",
+        "period": "Mensual",
+        "risk": "Moderado",
+        "lockup": "3 meses",
+        "ideal": "Inversores con capital más pequeño buscando construir impulso inicial."
+      },
+      {
+        "name": "Cartera de Crecimiento",
+        "minimum": "$1,000 – $5,999",
+        "range": "4–7%",
+        "period": "Mensual",
+        "risk": "Moderado",
+        "lockup": "6-12 meses",
+        "ideal": "Nuevos inversores que buscan un rendimiento consistente y prometedor."
+      },
+      {
+        "name": "Cartera Principal",
+        "minimum": "$6,000 – $25,999",
+        "range": "5–8%",
+        "period": "Mensual (recomendado)",
+        "risk": "Bajo-Moderado",
+        "lockup": "12 meses+",
+        "ideal": "Inversores que buscan rendimientos estables, consistentes y ligeramente agresivos."
+      },
+      {
+        "name": "Cartera Ejecutiva",
+        "minimum": "$26,000 – $249,999",
+        "range": "6–10%",
+        "period": "Mensual (recomendado)",
+        "risk": "Moderado-Alto",
+        "lockup": "12-36 meses+",
+        "ideal": "Inversores experimentados que buscan estabilidad combinada con crecimiento agresivo a largo plazo."
+      },
+      {
+        "name": "Cartera Institucional y Family Office",
+        "minimum": "$250,000+",
+        "range": "7–12%",
+        "period": "Mensual (recomendado)",
+        "risk": "Moderado-Alto",
+        "lockup": "Personalizado",
+        "ideal": "Instituciones y family offices que buscan estrategias diversificadas y personalizadas."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Confiado por Inversores y Reconocimientos",
+    "items": [
+      {
+        "name": "Amara J., Dar es Salaam",
+        "text": "Stateway ha transformado cómo administro mi dinero. Informes claros y consistencia fuerte."
+      },
+      {
+        "name": "Salem M., Nairobi",
+        "text": "La estrategia de IA da confianza en cada decisión. Equipo muy profesional."
+      },
+      {
+        "name": "Ruth K., Arusha",
+        "text": "Me gusta la transparencia y la comunicación. Este es el futuro de la inversión en África."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Construir tu Legado Financiero?",
+    "description": "Únete a la creciente comunidad de Stateway de inversores con visión de futuro que construyen riqueza a largo plazo con estrategias impulsadas por IA.",
+    "button1": "📞 Reservar Llamada de Inversor",
+    "button2": "📄 Descargar Documento para Inversores",
+    "footer": "Licenciado y auditado. Tu inversión, tu futuro."
+  },
+  "footer": {
+    "company": "STATEWAY Capital Group",
+    "tagline": "Gestión de Activos Impulsada por IA | Tanzania",
+    "contact": "Contacto",
+    "email": "ceao@statewaygroup.ai",
+    "location": "Dar es Salaam, Tanzania",
+    "links": {
+      "about": "Acerca de Nosotros",
+      "investment": "Planes de Inversión",
+      "risk": "Divulgación de Riesgo",
+      "privacy": "Política de Privacidad"
+    },
+    "copyright": "© {year} Stateway Capital Group. Todos los derechos reservados."
+  },
+  "features": {
+    "title": "Cartera de Inversión",
+    "items": [
+      {
+        "title": "Bienes Raíces",
+        "desc": "Propiedades comerciales y residenciales con ingresos de alquiler y modelos de estilo REIT."
+      },
+      {
+        "title": "Mercados Públicos",
+        "desc": "Acciones de primer nivel, acciones que pagan dividendos, bonos gubernamentales y corporativos."
+      },
+      {
+        "title": "Capital Privado",
+        "desc": "Startups de rápido crecimiento y empresas no públicas con oportunidades de adquisición estratégica."
+      },
+      {
+        "title": "Ingresos Fijos",
+        "desc": "Microcréditos con garantía, bonos del tesoro y préstamos respaldados por activos."
+      },
+      {
+        "title": "Empresas Físicas",
+        "desc": "Empresas minoristas en energía, tecnología, agronegocios y comercio de importación-exportación."
+      },
+      {
+        "title": "Gestión de Riesgo",
+        "desc": "Auditorías de terceros, operaciones con licencia y cobertura de seguros integral."
+      }
+    ]
+  },
+  "valueProps": {
+    "title": "Por Qué Elegir Stateway",
+    "items": [
+      {
+        "title": "Cartera Diversificada",
+        "desc": "Acceso a bienes raíces, acciones, bonos, capital privado e inversiones alternativas en múltiples clases de activos."
+      },
+      {
+        "title": "Transparencia Completa",
+        "desc": "Política de libros abiertos con panel de inversores en tiempo real, sin tarifas ocultas y auditorías anuales de terceros."
+      },
+      {
+        "title": "Rendimientos Consistentes",
+        "desc": "Asignación estratégica que ofrece rendimientos de referencia del 3.5% al 20% según el plazo de inversión y el estilo de cartera."
+      }
+    ]
+  }
+}

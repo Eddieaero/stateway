@@ -1,16 +1,20 @@
 import React from 'react';
+import { useTranslation } from '../contexts/TranslationContext';
 
-export const CallToAction: React.FC = () => (
+export const CallToAction: React.FC = () => {
+  const { t } = useTranslation();
+
+  return (
   <section id="contact" className="section cta" aria-labelledby="cta-heading">
     <div className="container">
-      <h2 id="cta-heading">Ready to Build Your Legacy?</h2>
-      <p>Join individuals, families, and institutions building wealth through strategic, transparent investments. Minimum investment: 2.5M.</p>
-      <form className="cta-form" onSubmit={e => e.preventDefault()} aria-label="Investment inquiry form">
-        <label className="visually-hidden" htmlFor="email">Email</label>
-        <input id="email" name="email" type="email" placeholder="investor@example.com" required aria-required="true" />
-        <button type="submit" className="btn btn-primary">Schedule Consultation</button>
-      </form>
-      <small className="muted">Licensed and audited. Your investment, your future.</small>
+      <h2 id="cta-heading">{t('cta.title')}</h2>
+      <p>{t('cta.description')}</p>
+      <div className="cta-actions">
+        <a href="#contact" className="btn btn-primary">{t('cta.button1')}</a>
+        <a href="/Investor-Deck.pdf" download className="btn btn-outline">{t('cta.button2')}</a>
+      </div>
+      <small className="muted">{t('cta.footer')}</small>
     </div>
   </section>
-);
+  );
+};
