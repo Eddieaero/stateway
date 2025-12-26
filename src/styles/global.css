@@ -1332,6 +1332,42 @@ html.light .hero {
   right: -70px;
 }
 
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 300ms ease;
+  z-index: 10;
+}
+
+.carousel-button:hover {
+  background: var(--color-primary-accent);
+  transform: translateY(-50%) scale(1.1);
+}
+
+.carousel-button:active {
+  transform: translateY(-50%) scale(0.95);
+}
+
+.carousel-button-prev {
+  left: -70px;
+}
+
+.carousel-button-next {
+  right: -70px;
+}
+
 .carousel-dots {
   display: flex;
   justify-content: center;
@@ -1556,6 +1592,10 @@ html.light .hero {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 2rem;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .logo-badge-svg {
@@ -1633,6 +1673,8 @@ html.light .hero {
   .logos-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
+    justify-items: center;
+    align-items: center;
   }
 
   .logo-badge-svg {
@@ -1710,6 +1752,8 @@ html.light .hero {
   .logos-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
+    justify-items: center;
+    align-items: center;
   }
 
   .logo-badge-svg {
