@@ -29,8 +29,8 @@ export const Hero: React.FC = () => {
         <h1>{t('hero.title')}</h1>
         <p className="lead">{t('hero.description')}</p>
         <div className="hero-actions">
-          <a href="#contact" className="btn btn-primary">{t('hero.cta1')}</a>
-          <a href="/Investor-Deck.pdf" download className="btn btn-outline">{t('hero.cta2')}</a>
+          <a href="tel:+255756892808" className="btn btn-primary">{t('hero.cta1')}</a>
+          <a href="/STATEWAY-Press-Kit.pdf" download className="btn btn-outline">{t('hero.cta2')}</a>
         </div>
         <div className="hero-badges" aria-label="Key platform badges">
           <span>{t('hero.badge')}</span>

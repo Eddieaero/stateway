@@ -67,6 +67,13 @@ export const InvestmentStrategies: React.FC = () => {
         </div>
 
         <div className="carousel-container" ref={carouselContainerRef}>
+          <button
+            className="carousel-button carousel-button-prev"
+            onClick={goToPrevious}
+            aria-label="Previous slide"
+          >
+            ❮
+          </button>
           <div className="carousel-wrapper">
             <div className="carousel-track" style={{ transform: `translateX(-${currentIndex * 50}%)` }}>
               {strategies.map((strategy: any, index: number) => (
@@ -106,6 +113,13 @@ export const InvestmentStrategies: React.FC = () => {
               ))}
             </div>
           </div>
+          <button
+            className="carousel-button carousel-button-next"
+            onClick={goToNext}
+            aria-label="Next slide"
+          >
+            ❯
+          </button>
 
           <div className="carousel-dots">
             {strategies.map((_: any, index: number) => (

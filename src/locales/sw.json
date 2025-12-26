@@ -169,14 +169,13 @@
     "title": "Uko Tayari Kujenga Mitaji yako ya Jamii?",
     "description": "Jiunge na jamii inayokua ya waendesha wenye fikira ya baadaye kujenga mali ya muda mrefu kwa mikakati inayoendeshwa na AI.",
     "button1": "📞 Kamatia Simu ya Mwasiliano",
-    "button2": "📄 Pakua Karatasi ya Waendesha",
-    "footer": "Imefunzwa na kutathminiwa. Mali yako, siku za baadaye yako."
+    "button2": "📄 Pakua Karatasi ya Waendesha"
   },
   "footer": {
     "company": "STATEWAY Capital Group",
     "tagline": "Uongezaji Mali Unaoendeshwa na AI | Tanzania",
     "contact": "Mawasiliano",
-    "email": "ceao@statewaygroup.ai",
+    "email": "ceo@statewaygroup.ai",
     "location": "Dar es Salaam, Tanzania",
     "links": {
       "about": "Kuhusu Sisi",

@@ -10,10 +10,9 @@ export const CallToAction: React.FC = () => {
       <h2 id="cta-heading">{t('cta.title')}</h2>
       <p>{t('cta.description')}</p>
       <div className="cta-actions">
-        <a href="#contact" className="btn btn-primary">{t('cta.button1')}</a>
-        <a href="/Investor-Deck.pdf" download className="btn btn-outline">{t('cta.button2')}</a>
+        <a href="tel:+255756892808" className="btn btn-primary">{t('cta.button1')}</a>
+        <a href="/STATEWAY-Press-Kit.pdf" download className="btn btn-outline">{t('cta.button2')}</a>
       </div>
-      <small className="muted">{t('cta.footer')}</small>
     </div>
   </section>
   );
