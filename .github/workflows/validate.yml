@@ -1,0 +1,40 @@
+name: Validate public site
+
+on:
+  push:
+    branches:
+      - seo/stateway-public-entity
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-seo-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Verify public SEO output
+        shell: bash
+        run: |
+          test -f dist/index.html
+          test -f dist/about/index.html
+          test -f dist/companies/index.html
+          test -f dist/technology/index.html
+          test -f dist/contact/index.html
+          test -f dist/robots.txt
+          test -f dist/sitemap.xml
+          test -f dist/404.html
+          grep -q 'https://statewaygroup.ai/' dist/index.html
+          grep -q 'Stateway Capital Group Limited' dist/index.html
+          grep -q 'kraftech.statewaygroup.ai' dist/companies/index.html
+          grep -q 'terminal.statewaygroup.ai' dist/companies/index.html
+          grep -q 'https://statewaygroup.ai/sitemap.xml' dist/robots.txt

@@ -20,7 +20,23 @@ export const Footer: React.FC = () => {
         </div>
       </div>
       <div className="footer-section">
-        <h4>Quick Links</h4>
+        <h4>Company</h4>
+        <ul className="footer-nav">
+          <li><a href="/about/">About Stateway</a></li>
+          <li><a href="/companies/">Companies &amp; Products</a></li>
+          <li><a href="/technology/">Technology</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
+      <div className="footer-section">
+        <h4>Products</h4>
+        <ul className="footer-nav">
+          <li><a href="https://kraftech.statewaygroup.ai/">Kraftech</a></li>
+          <li><a href="https://terminal.statewaygroup.ai/">Stateway Terminal</a></li>
+        </ul>
+      </div>
+      <div className="footer-section">
+        <h4>Existing Links</h4>
         <ul className="footer-nav">
           <li><a href="#why-stateway">{links.about}</a></li>
           <li><a href="#pricing">{links.investment}</a></li>
