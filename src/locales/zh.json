@@ -4,7 +4,9 @@
     "portfolio": "投资组合",
     "returns": "回报",
     "investors": "投资者",
-    "investNow": "立即投资"
+    "investNow": "立即投资",
+    "products": "产品",
+    "viewAllProducts": "查看所有产品"
   },
   "hero": {
     "title": "AI驱动的代际财富管理",
