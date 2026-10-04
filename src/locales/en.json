@@ -4,7 +4,9 @@
     "portfolio": "Portfolio",
     "returns": "Returns",
     "investors": "Investors",
-    "investNow": "Invest Now"
+    "investNow": "Invest Now",
+    "products": "Products",
+    "viewAllProducts": "View all products"
   },
   "hero": {
     "title": "AI-Driven Generational Wealth Management",
