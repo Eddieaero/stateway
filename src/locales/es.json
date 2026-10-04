@@ -4,7 +4,9 @@
     "portfolio": "Cartera",
     "returns": "Rendimientos",
     "investors": "Inversores",
-    "investNow": "Invertir Ahora"
+    "investNow": "Invertir Ahora",
+    "products": "Productos",
+    "viewAllProducts": "Ver todos los productos"
   },
   "hero": {
     "title": "Gestión de Riqueza Generacional Impulsada por IA",

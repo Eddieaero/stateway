@@ -278,6 +278,110 @@ a:hover {
   align-items: center;
 }
 
+
+.nav-products {
+  position: relative;
+}
+
+.nav-products-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  border: 0;
+  background: transparent;
+  color: var(--color-primary);
+  font: inherit;
+  cursor: pointer;
+  padding: .35rem 0;
+}
+
+.nav-products-trigger:hover,
+.nav-products-trigger:focus-visible {
+  color: var(--color-primary-accent);
+  outline: none;
+}
+
+.products-dropdown {
+  position: absolute;
+  top: calc(100% + .75rem);
+  left: 50%;
+  transform: translate(-50%, -.4rem);
+  width: min(340px, 82vw);
+  padding: .55rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-md);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity var(--transition), transform var(--transition), visibility var(--transition);
+  z-index: 110;
+}
+
+.nav-products:hover .products-dropdown,
+.nav-products:focus-within .products-dropdown {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translate(-50%, 0);
+}
+
+.product-link {
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+  padding: .8rem .85rem;
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.product-link:hover,
+.product-link:focus-visible {
+  background: var(--color-bg);
+  text-decoration: none;
+  outline: none;
+}
+
+.product-link strong {
+  font-size: .92rem;
+  color: var(--color-text);
+}
+
+.product-link span {
+  font-size: .76rem;
+  line-height: 1.45;
+  color: var(--color-muted);
+}
+
+.products-all {
+  display: block;
+  margin-top: .25rem;
+  padding: .75rem .85rem;
+  border-top: 1px solid var(--color-border);
+  color: var(--color-primary);
+  font-size: .8rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.products-all:hover,
+.products-all:focus-visible {
+  color: var(--color-primary-accent);
+  text-decoration: none;
+  outline: none;
+}
+
+.mobile-products-label {
+  padding: 1rem 1.5rem .55rem;
+  color: var(--color-muted);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
 .logo-img {
   height: 28px;
   width: auto;
