@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from '../contexts/TranslationContext';
 
 export const MobileMenu: React.FC<{ isOpen: boolean; onClose: () => void }> = ({ isOpen, onClose }) => {
-  const { language, setLanguage } = useTranslation();
+  const { language, setLanguage, t } = useTranslation();
 
   const languages = [
     { code: 'en', name: 'English', flag: '🇬🇧' },
@@ -33,6 +33,10 @@ export const MobileMenu: React.FC<{ isOpen: boolean; onClose: () => void }> = ({
         aria-hidden={!isOpen}
       >
         <ul>
+          <li className="mobile-products-label">{t('nav.products')}</li>
+          <li><a href="https://kraftech.statewaygroup.ai/" onClick={onClose}>Kraftech</a></li>
+          <li><a href="https://terminal.statewaygroup.ai/" onClick={onClose}>Stateway Terminal</a></li>
+          <li><a href="/companies/" onClick={onClose}>{t('nav.viewAllProducts')}</a></li>
           <li><a href="#features" onClick={onClose}>Portfolio</a></li>
           <li><a href="#pricing" onClick={onClose}>Returns</a></li>
           <li><a href="#testimonials" onClick={onClose}>Investors</a></li>
