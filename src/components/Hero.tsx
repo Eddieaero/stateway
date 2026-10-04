@@ -15,6 +15,29 @@ export const Hero: React.FC = () => {
         <Logo />
         <ul className="nav-links">
           <li><a href="#why-stateway">{t('nav.whyStateway')}</a></li>
+          <li className="nav-products">
+            <button
+              type="button"
+              className="nav-products-trigger"
+              aria-haspopup="true"
+              aria-label={t('nav.products')}
+            >
+              {t('nav.products')} <span aria-hidden="true">▾</span>
+            </button>
+            <div className="products-dropdown" role="menu">
+              <a href="https://kraftech.statewaygroup.ai/" className="product-link" role="menuitem">
+                <strong>Kraftech</strong>
+                <span>Business management systems for Tanzanian SMEs</span>
+              </a>
+              <a href="https://terminal.statewaygroup.ai/" className="product-link" role="menuitem">
+                <strong>Stateway Terminal</strong>
+                <span>Financial intelligence and African-market research</span>
+              </a>
+              <a href="/companies/" className="products-all" role="menuitem">
+                {t('nav.viewAllProducts')} →
+              </a>
+            </div>
+          </li>
           <li><a href="#features">{t('nav.portfolio')}</a></li>
           <li><a href="#pricing">{t('nav.returns')}</a></li>
           <li><a href="#testimonials">{t('nav.investors')}</a></li>
